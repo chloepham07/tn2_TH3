@@ -2,8 +2,7 @@
 Minh chứng và code ở trong các folders tương ứng của mỗi bài !
 # TH3 · Tầng mạng trên ESP32 — Nhóm Kud0_75
 
-## Bài 1 · Wi-Fi: Access Point và Station<img width="1500" height="324" alt="serial_monitor_vd1" src="https://github.com/user-attachments/assets/56f849ce-5e7a-4f5f-b296-c9108cdad45f" />
-
+## Bài 1 · Wi-Fi: Access Point và Station
 
 
 **SSID nhóm đã đặt:** `Kud0_75` (pass `password123`)
