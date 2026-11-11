@@ -1,4 +1,4 @@
-# Trần Ngô Tiến Đạt - 25112231 - Thực hành 3 - Thí nghiệm 2 
+# Phạm Hồng Duyên - 25112235 - Thực hành 3
 Minh chứng và code ở trong các folders tương ứng của mỗi bài !
 # TH3 · Tầng mạng trên ESP32 — Nhóm Kud0_75
 
